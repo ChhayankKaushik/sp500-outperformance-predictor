@@ -1,2 +1,2 @@
 # sp500-outperformance-predictor
-A custom Random Forest classifier built from scratch in Python to predict S&amp;P 500 stock outperformance using quarterly fundamental and market technical metrics.
+A custom Random Forest classifier built from scratch in Python to predict S&amp;P 500 stock outperformance using quarterly fundamental and market technical metrics. A custom DecisionTreeClassifier and RandomForestClassifier classes built without scikit-learn to demonstrate an understanding of the tree building algorithms, bootstrap ensembling, gini impurity and information gain. The training window (2010–2019) and out-of-sample testing window (2021–2024) are separated to prevent lookahead bias. 
